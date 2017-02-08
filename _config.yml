@@ -3,7 +3,7 @@ description: Kovri, a secure, private, untraceable C++ router implementation of 
 
 navigation:
   - text: Home
-    url: INDEX
+    url: index
   - text: User Guide
     url: USER_GUIDE
   - text: Style
