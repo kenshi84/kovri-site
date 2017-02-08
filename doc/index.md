@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: INDEX
+permalink: index
 ---
 
 ## What is Kovri?
